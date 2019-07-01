@@ -1,2 +1,1 @@
-# SeriousNet
-Seriously developed neural network
+## Some seriously developed shit
